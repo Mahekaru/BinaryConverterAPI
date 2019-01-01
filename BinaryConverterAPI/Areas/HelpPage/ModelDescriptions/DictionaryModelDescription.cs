@@ -1,0 +1,6 @@
+namespace BinaryConverterAPI.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}
